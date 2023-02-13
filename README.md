@@ -1,4 +1,4 @@
-Hi, it's me Aleksandr
+Hi, it's me Aleksandr.
 I am a beginner web developer.  
 Contacts:  
 Mail: [galexthunder@gmail.com](mailto:http://galexthunder@gmail.com/ "Send mail to")  
